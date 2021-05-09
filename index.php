@@ -89,7 +89,7 @@ $background = $backgrounds[$idx];
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-sm-6 col-md-4 col-lg-3">
+				<!-- <div class="col-sm-6 col-md-4 col-lg-3">
 					<div class="thumbnail">
 						<div class="caption">
 							<h3>科學班甄選報名</h3>
@@ -97,7 +97,7 @@ $background = $backgrounds[$idx];
 							<p><a href="/secreg/" class="btn btn-primary" role="button">進入</a></p>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="col-sm-6 col-md-4 col-lg-3">
 					<div class="thumbnail">
 						<div class="caption">
@@ -125,7 +125,7 @@ $background = $backgrounds[$idx];
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4 col-lg-3">
+				<!-- <div class="col-sm-6 col-md-4 col-lg-3">
 					<div class="thumbnail">
 						<div class="caption">
 							<h3>採購系統</h3>
@@ -133,7 +133,7 @@ $background = $backgrounds[$idx];
 							<p><a href="/market/" class="btn btn-primary" role="button">進入</a></p>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="col-sm-6 col-md-4 col-lg-3">
 					<div class="thumbnail">
 						<div class="caption">
