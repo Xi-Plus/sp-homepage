@@ -89,15 +89,6 @@ $background = $backgrounds[$idx];
 				</div>
 			</div>
 			<div class="row">
-				<!-- <div class="col-sm-6 col-md-4 col-lg-3">
-					<div class="thumbnail">
-						<div class="caption">
-							<h3>科學班甄選報名</h3>
-							<p></p>
-							<p><a href="/secreg/" class="btn btn-primary" role="button">進入</a></p>
-						</div>
-					</div>
-				</div> -->
 				<div class="col-sm-6 col-md-4 col-lg-3">
 					<div class="thumbnail">
 						<div class="caption">
@@ -125,15 +116,6 @@ $background = $backgrounds[$idx];
 						</div>
 					</div>
 				</div>
-				<!-- <div class="col-sm-6 col-md-4 col-lg-3">
-					<div class="thumbnail">
-						<div class="caption">
-							<h3>採購系統</h3>
-							<p>學生訂購學用品</p>
-							<p><a href="/market/" class="btn btn-primary" role="button">進入</a></p>
-						</div>
-					</div>
-				</div> -->
 				<div class="col-sm-6 col-md-4 col-lg-3">
 					<div class="thumbnail">
 						<div class="caption">
@@ -170,19 +152,6 @@ $background = $backgrounds[$idx];
 							<h3>點名系統</h3>
 							<p>教師點名</p>
 							<p><a href="/attend/" class="btn btn-primary" role="button">進入</a></p>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4 col-lg-3">
-					<div class="thumbnail">
-						<div class="caption">
-							<h3>公民與社會科教學資源平台</h3>
-							<p>公民與社會科教材線上系統</p>
-							<p>
-								<a href="/teachres/" class="btn btn-primary" role="button">進入</a>
-								<!-- <a href="/teachresdev/" class="btn btn-warning" role="button" rel="nofollow">Beta版</a> -->
-								<!-- <a href="/teachresdev2/" class="btn btn-danger" role="button" rel="nofollow">Alpha版(篩選器)</a> -->
-							</p>
 						</div>
 					</div>
 				</div>
