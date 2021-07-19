@@ -1,9 +1,9 @@
 <?php
 require __DIR__ . '/config.php';
 if (isset($_GET['idx']) && isset($backgrounds[$_GET['idx']])) {
-	$idx = $_GET['idx'];
+    $idx = $_GET['idx'];
 } else {
-	$idx = rand(0, count($backgrounds) - 1);
+    $idx = rand(0, count($backgrounds) - 1);
 }
 $background = $backgrounds[$idx];
 ?>
@@ -162,7 +162,6 @@ $background = $backgrounds[$idx];
 							<p>教師登記借用教室</p>
 							<p>
 								<a href="/room/" class="btn btn-primary" role="button">進入</a>
-								<!-- <a href="/roomdev/" class="btn btn-danger" role="button" rel="nofollow">Alpha版</a>  -->
 							</p>
 						</div>
 					</div>
@@ -183,7 +182,6 @@ $background = $backgrounds[$idx];
 							<p>學校公民教師統計及公民教師資料填報</p>
 							<p>
 								<a href="/teacherinfo/" class="btn btn-primary" role="button">進入</a>
-								<!-- <a href="/teacherinfodev/" class="btn btn-warning" role="button" rel="nofollow">Beta版</a> -->
 							</p>
 						</div>
 					</div>
