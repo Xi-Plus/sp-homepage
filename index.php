@@ -125,15 +125,6 @@ $background = $backgrounds[$idx];
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4 col-lg-3">
-					<div class="thumbnail">
-						<div class="caption">
-							<h3>學生會</h3>
-							<p>捍衛學生權利—提升學生素養</p>
-							<p><a href="/sa/" class="btn btn-primary" role="button">進入</a></p>
-						</div>
-					</div>
-				</div>
 			</div>
 			<div class="row">
 				<div class="col-sm-12">
