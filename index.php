@@ -8,7 +8,7 @@ if (isset($_GET['idx']) && isset($backgrounds[$_GET['idx']])) {
 $background = $backgrounds[$idx];
 ?>
 <!DOCTYPE html>
-<html lang="zh-Hant-TW">
+<html lang="zh-Hant-TW" style="height: 100%;">
 
 <head>
 	<meta charset="UTF-8">
@@ -63,8 +63,8 @@ $background = $backgrounds[$idx];
 
 </head>
 
-<body topmargin="0" leftmargin="0" bottommargin="0">
-	<div style="background: rgba(255, 255, 255, <?=$background['alpha']?>);">
+<body topmargin="0" leftmargin="0" bottommargin="0" style="height: 100%;">
+	<div style="background: rgba(255, 255, 255, <?=$background['alpha']?>); min-height: 100%;">
 		<div id="top" class="bs-docs-header" id="content" tabindex="-1" style="padding: 60px;">
 			<div class="container">
 				<h1 style="word-break: keep-all;">臺南一中<wbr>線上系統</h1>
