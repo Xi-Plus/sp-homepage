@@ -140,15 +140,6 @@ $background = $backgrounds[$idx];
 				<div class="col-sm-6 col-md-4 col-lg-3">
 					<div class="thumbnail">
 						<div class="caption">
-							<h3>點名系統</h3>
-							<p>教師點名</p>
-							<p><a href="/attend/" class="btn btn-primary" role="button">進入</a></p>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4 col-lg-3">
-					<div class="thumbnail">
-						<div class="caption">
 							<h3>場地預約系統</h3>
 							<p>教師登記借用教室</p>
 							<p>
