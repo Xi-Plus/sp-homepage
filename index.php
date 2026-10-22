@@ -18,10 +18,10 @@ $background = $backgrounds[$idx];
 	<link rel="SHORTCUT ICON" href="/resource/tnfshicon.ico" type="image/x-icon">
 	<meta property="og:title" content="臺南一中線上系統" />
 	<meta property="og:type" content="website" />
-	<meta property="og:description" content="臺南一中各種電子化線上系統，包含訂購教科書及學用品、借用教室、報修" />
+	<meta property="og:description" content="臺南一中各種電子化線上系統，包含訂購學用品、借用教室、報修" />
 	<meta property="og:url" content="https://sp.tnfsh.tn.edu.tw/" />
 	<meta property="og:image" content="http://www.tnfsh.tn.edu.tw/ezfiles/0/1000/sys_1000_1720276_57846.png">
-	<meta name="description" content="臺南一中各種電子化線上系統，包含訂購教科書及學用品、借用教室、報修">
+	<meta name="description" content="臺南一中各種電子化線上系統，包含訂購學用品、借用教室、報修">
 	<meta name="author" content="xiplus">
 	<title>臺南一中線上系統</title>
 	<style type="text/css">
@@ -104,15 +104,6 @@ $background = $backgrounds[$idx];
 							<h3>排名百分比試算工具</h3>
 							<p></p>
 							<p><a href="/rankpercent/" class="btn btn-primary" role="button">進入</a></p>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4 col-lg-3">
-					<div class="thumbnail">
-						<div class="caption">
-							<h3>教科書訂購系統</h3>
-							<p>學生訂購教科書</p>
-							<p><a href="/book/" class="btn btn-primary" role="button">進入</a></p>
 						</div>
 					</div>
 				</div>
