@@ -148,17 +148,6 @@ $background = $backgrounds[$idx];
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4 col-lg-3">
-					<div class="thumbnail">
-						<div class="caption">
-							<h3>公民科教師資料填報</h3>
-							<p>學校公民教師統計及公民教師資料填報</p>
-							<p>
-								<a href="/teacherinfo/" class="btn btn-primary" role="button">進入</a>
-							</p>
-						</div>
-					</div>
-				</div>
 			</div>
 			<div class="row">
 				<div class="col-sm-12">
